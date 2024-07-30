@@ -89,8 +89,6 @@ author: Ir1d, Anguei, hsfzLZH1
 
 ## 习题
 
-[Usaco2006 Dec Wormholes 虫洞](https://loj.ac/problem/10085)
-
 [「SCOI2011」糖果](https://loj.ac/problem/2436)
 
 [POJ 1364 King](http://poj.org/problem?id=1364)
